@@ -1,0 +1,167 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:2:1-35:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7c090e45af823e344a26dfcf718582a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f6e8ee7803aa12c9a0d402408cafd706/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5915ac31ac3bf0274e44f02c2366c3ac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/1b0190119d50461e026021a01bd0cdf0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/eb80e8ad7e29a30fd776e65cc824cc6c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7b8d3ea29457df03a870397666eaedf0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5af6069cb67adb2c9517b2a14278dffa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/423a6b0b58853a74c98e41cbe9fbd768/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4149be6af92cf5d71d661951f4ed8d92/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2e4a5efa3d04f2dee0598f13c63e9a44/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/95319dfd5b914f2a9b666c3c0068e318/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/78204f50fb4f669d167b69d566f87407/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7550a492b530c2aa8121ae1310f2d6ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b18e17622a2f3a48f40b6a905bfd5c0c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fe247004fbe2d4d05c680108025d9fb9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c985fedeed70e7414a47b72e473fd863/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e29565a864726349e586416349a01b4e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/af40f146bcd896c41dbf45e15f7cddd2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b469bdba964c35f2645f749c956dbcdc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/93c4aa79de93cceb55b9bef093e90588/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9cef0b700309d394474f026c9d3af8b8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f044140df474234b7859ca4d500833b2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a9df4a6dca48fbabc2d0d033a94baad8/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/260844c9ce30fe252e959e89b8f00042/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dcd36e1417867c21fa77fe3a23d3ef8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/296c94d97fc616545812d66e0eb91473/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:2:1-35:12
+INJECTED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:3:5-69
+		INJECTED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:2:1-35:12
+		INJECTED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:5:5-6:63
+	android:name
+		ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:6:9-61
+application
+ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:8:5-33:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fe247004fbe2d4d05c680108025d9fb9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fe247004fbe2d4d05c680108025d9fb9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c985fedeed70e7414a47b72e473fd863/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c985fedeed70e7414a47b72e473fd863/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fe247004fbe2d4d05c680108025d9fb9/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:13:9-40
+activity#oak.shef.ac.uk.testrunningservicesbackgroundrelaunched.MainActivity
+ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:19:27-74
+service#oak.shef.ac.uk.testrunningservicesbackgroundrelaunched.SensorService
+ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:22:9-25:19
+	android:enabled
+		ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:24:13-35
+	android:name
+		ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:23:13-96
+receiver#oak.shef.ac.uk.testrunningservicesbackgroundrelaunched.SensorRestarterBroadcastReceiver
+ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:27:9-32:20
+	android:enabled
+		ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:29:13-35
+	android:label
+		ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:31:13-54
+	android:exported
+		ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml:28:13-115
+uses-sdk
+INJECTED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7c090e45af823e344a26dfcf718582a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/7c090e45af823e344a26dfcf718582a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f6e8ee7803aa12c9a0d402408cafd706/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/f6e8ee7803aa12c9a0d402408cafd706/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5915ac31ac3bf0274e44f02c2366c3ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/5915ac31ac3bf0274e44f02c2366c3ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/1b0190119d50461e026021a01bd0cdf0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/1b0190119d50461e026021a01bd0cdf0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/eb80e8ad7e29a30fd776e65cc824cc6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/eb80e8ad7e29a30fd776e65cc824cc6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7b8d3ea29457df03a870397666eaedf0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/7b8d3ea29457df03a870397666eaedf0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5af6069cb67adb2c9517b2a14278dffa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/5af6069cb67adb2c9517b2a14278dffa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/423a6b0b58853a74c98e41cbe9fbd768/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/423a6b0b58853a74c98e41cbe9fbd768/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4149be6af92cf5d71d661951f4ed8d92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/4149be6af92cf5d71d661951f4ed8d92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2e4a5efa3d04f2dee0598f13c63e9a44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2e4a5efa3d04f2dee0598f13c63e9a44/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/95319dfd5b914f2a9b666c3c0068e318/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/95319dfd5b914f2a9b666c3c0068e318/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/78204f50fb4f669d167b69d566f87407/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/78204f50fb4f669d167b69d566f87407/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7550a492b530c2aa8121ae1310f2d6ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7550a492b530c2aa8121ae1310f2d6ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b18e17622a2f3a48f40b6a905bfd5c0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/b18e17622a2f3a48f40b6a905bfd5c0c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fe247004fbe2d4d05c680108025d9fb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/fe247004fbe2d4d05c680108025d9fb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c985fedeed70e7414a47b72e473fd863/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/c985fedeed70e7414a47b72e473fd863/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e29565a864726349e586416349a01b4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/e29565a864726349e586416349a01b4e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/af40f146bcd896c41dbf45e15f7cddd2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/af40f146bcd896c41dbf45e15f7cddd2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b469bdba964c35f2645f749c956dbcdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b469bdba964c35f2645f749c956dbcdc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/93c4aa79de93cceb55b9bef093e90588/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/93c4aa79de93cceb55b9bef093e90588/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9cef0b700309d394474f026c9d3af8b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/9cef0b700309d394474f026c9d3af8b8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f044140df474234b7859ca4d500833b2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f044140df474234b7859ca4d500833b2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a9df4a6dca48fbabc2d0d033a94baad8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/a9df4a6dca48fbabc2d0d033a94baad8/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/260844c9ce30fe252e959e89b8f00042/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/260844c9ce30fe252e959e89b8f00042/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dcd36e1417867c21fa77fe3a23d3ef8c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dcd36e1417867c21fa77fe3a23d3ef8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/296c94d97fc616545812d66e0eb91473/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/alex.marcus/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/296c94d97fc616545812d66e0eb91473/AndroidManifest.xml:20:5-44
+INJECTED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/src/main/AndroidManifest.xml

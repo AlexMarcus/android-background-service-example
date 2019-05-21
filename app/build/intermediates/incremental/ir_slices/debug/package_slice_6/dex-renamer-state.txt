@@ -1,0 +1,4 @@
+#Tue May 21 13:31:18 EDT 2019
+base.0=/Users/alex.marcus/Downloads/neverEndingAndroidService-master/app/build/intermediates/transforms/dexMerger/debug/6
+path.0=classes.dex
+renamed.0=classes.dex
